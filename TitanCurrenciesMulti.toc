@@ -1,10 +1,10 @@
 ## Interface: 100005
-## Title: Titan Panel [|cff336699Currencies|r] Multi! |cff00aa00@project-version@|r
+## Title: Titan Panel [|cff336699Currencies|r] Multi! |cff00aa00v9.5.0|r
 ## Notes: Track a lot of currencies! Right-click on Titan Panel, go to "Information" tab and enjoy.
 ## Notes-ptBR: Rastreie várias moedas! Clique com o botão direito no Painel Titan, vá na aba "Informação" e aproveite.
 ## Notes-esES: Sigue un monton de monedas! Click-Dcho en Titan Panel, para ir a ventana de "Información" y disfruta.
 ## Author: Canettieri
-## Version: @project-version@
+## Version: v9.5.0
 ## Dependencies: Titan
 ## SavedVariables: TitanCurrenciesMultiDb
 ## X-Curse-Project-ID: 94508
@@ -35,6 +35,7 @@ c.Dragonflight\TitanMagmote.lua
 c.Dragonflight\TitanPArcaneEnergy.lua
 c.Dragonflight\TitanPrimevalEssence.lua
 c.Dragonflight\TitanStormSigil.lua
+c.Dragonflight\TitanTradersTender.lua
 c.Legacy\BfA\TitanArtifactPower.lua
 c.Legacy\BfA\TitanCoalescingVisions.lua
 c.Legacy\BfA\TitanCorruptedMemento.lua
